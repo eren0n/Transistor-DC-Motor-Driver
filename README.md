@@ -33,5 +33,5 @@ A7  : EMPTY</br>
 VIN : 9V</br>
 
 # Explanation
-This is my school project. It's not so good and stable. Instead, it will be more stable to use integrated like l239d.</br>
-If you want to use this card, my request from you please don't delete disclaimer part.
+This circuit is a school project of mine. This circuit isn't good and stable. It'd be better to use an integrated circuit like l239d instead of this circuit.</br>
+If you want to use this card, please don't remove the disclaimer.
